@@ -158,20 +158,6 @@ spooktrunt/
 > 🕯️ “Summon a cathedral grown from bones & violet glass, spiraling like a cursed seashell dreaming of stars”
 </details>
 
----
-
-<details>
-<summary>🎥 Demo Flow</summary>
-
-| Time | Action |
-|------|--------|
-| 0:00 — 0:20 | Type: “Floating forest hotel over ocean canyon” |
-| 0:20 — 0:50 | 3D structure auto-builds |
-| 0:50 — 1:30 | Edit shapes, bridges, levitating sections |
-| 1:30 — 2:00 | Run AI feasibility report |
-| 2:00 — 2:40 | AI suggests supports + sustainable materials |
-| 2:40 — 3:00 | AR walkthrough + final views |
-</details>
 
 ---
 
